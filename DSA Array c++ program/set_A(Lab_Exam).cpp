@@ -1,3 +1,5 @@
+//IIUC MID TERM EXAM PART A - 10 MARKS
+
 #include <iostream>
 using namespace std;
 
